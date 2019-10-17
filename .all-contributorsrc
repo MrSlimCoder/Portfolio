@@ -13,7 +13,9 @@
       "contributions": [
         "infra",
         "code",
-        "test"
+        "test",
+        "doc",
+        "bug"
       ]
     }
   ],
